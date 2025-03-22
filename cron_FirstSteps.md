@@ -74,7 +74,7 @@ Where:
 - dow --> day of week
 - command --> commands or scripts to be run at specified time.
 
-The star key `*` character stands for "any time"
+The star key `*` character stands for "any value" depending on the time field.
 
 For more information visit the great web page [crontab guru][guru]
 
